@@ -1,0 +1,18 @@
+{
+  "name": "Inter Paris PMU",
+  "short_name": "Inter Paris",
+  "description": "Analyse PDF · Pronostics · Comparatif · Taux de réussite",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0C0F",
+  "theme_color": "#C9A84C",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-interparis.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
